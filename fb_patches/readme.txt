@@ -144,4 +144,10 @@ These are patches to be installed next to the original files, which are not incl
 
 Most of the texture assets come completely unmodified, while models and certain select textures have been slightly modified with respect to the original artistic intent. No express permission to modify or distribute these assets was sought. Contact me if you are the author and would like me to change or exclude your assets from the package.
 
-You are free to distribute and/or modify this package in accordance with licenses already associated with the assets. 
+You are free to distribute and/or modify this package in accordance with licenses already associated with the assets.
+
+
+    == Links ==
+
+Download: https://github.com/c-d-a/q1fbfix
+Discussion: http://celephais.net/board/view_thread.php?id=61775
