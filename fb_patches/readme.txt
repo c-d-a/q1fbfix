@@ -39,6 +39,7 @@ apsp3       "Subterranean Library" by than
 arcextra    "Arcanum Bonus Maps" by Tronyn & PM
 arwop       "A Roman Wilderness of Pain" by Tronyn & PM
 bbelief     "Beyond Belief" by Matthias Worch
+    note: expects bbelief6_fix as pak1
 cda         "Castle of the Dark Ages" by JPL
 chapters    "Contract Revoked: The Lost Chapters" by Kell et al.
 coagpack1   "Coagula Contest 1"
@@ -68,7 +69,8 @@ heresp5     "Dismal Signal" by Heresy
 hipnotic    "Scourge of Armagon" by Hipnotic Interactive
 hrim_sp3    "Breakfast at Twilight" by Hrimfaxi
 hrim_sp4    "For Love of Evil" by Hrimfaxi
-hwjam2018   "Halloween 2018 Jam"
+hwjam2018   "Halloween Jam"
+hwjam2019   "Halloween Jam 2"
 id1         "Quake" by id Software
 ikspq5      "The Secret Installation" by Iikka Keränen
 jam1        "Honey Jam"
