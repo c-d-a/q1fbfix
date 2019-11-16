@@ -82,6 +82,7 @@ jam7        "Back to Base Jam"
 jam8        "Film Noir Jam"
 jam9        "Contract Revoked Jam"
 jamx        "Insomnia Jam"
+jumpmod     "Jump Boots" mod and "Triune Discovery" by JCR
 koohoo      "The Castle of Koohoo" by Vondur
 lunsp1      "Concentric Devastation" by Lunaran
 marcher     "The Marcher Fortress" by Kinn
