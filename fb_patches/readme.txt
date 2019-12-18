@@ -65,6 +65,7 @@ fmb_bdg2    "Binn, Dunne, Gorne" by Mike Woodham
 gmsp3       "Day of the Lords" by GlassMan
 gth         "Gate to Hell" by JPL
 guncotton   "Guncotton" by Kona
+haunting    "Autumn Haunting" by Kona
 heresp5     "Dismal Signal" by Heresy
 hipnotic    "Scourge of Armagon" by Hipnotic Interactive
 hrim_sp3    "Breakfast at Twilight" by Hrimfaxi
@@ -86,6 +87,7 @@ jumpmod     "Jump Boots" mod and "Triune Discovery" by JCR
 koohoo      "The Castle of Koohoo" by Vondur
 lunsp1      "Concentric Devastation" by Lunaran
 marcher     "The Marcher Fortress" by Kinn
+marine      "Ultramarine" by Kona
 masque      "The Masque of Red Death" by Tronyn
 mfxsp17     "Mainframe Mayhem" by mfx
 movplan2    "Shifting Planes of Existence" by Spipper
@@ -128,6 +130,7 @@ xmas2017    pak0:   skins for ADv1.70p1
             pak1:   "Christmas Jam 2017"
 xmas2018    pak0:   skins for ADv1.70p1
             pak1:   "Christmas Jam 2018"
+xmas2019    "Christmas Jam 2019"
 zer         "Zerstörer" by Nihilism Unlimited
     note: expects zerend_fix as pak1
 
@@ -138,7 +141,7 @@ The patches are set up for additive luma (rather than masked). This means better
 
 The following releases have been checked and do not require a patch:
 
-actaltrz, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, gmsp1, grim, honey, ikspq1-4, ivory, jam4, kellmet, mappi1, mappi2, menk, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam1,2,3,5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
+5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, gmsp1, grim, honey, ikspq1-4, ivory, jam4, kellmet, mappi1, mappi2, menk, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam1,2,3,5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
 
 
     == Legal ==
