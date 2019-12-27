@@ -23,6 +23,7 @@ If you just dump maps into id1 folder whenever possible, this way of overriding 
 
     == Contents ==
 
+1000cuts    "One Thousand Cuts" by sock
 ac          "Adamantine Cruelty" by Vondur
 ad          "Arcane Dimensions" by sock et al. (v1.70p1)
 admaps      custom AD-based maps
@@ -38,6 +39,7 @@ alk12       "Fearcraft" by Kona
 apsp3       "Subterranean Library" by than
 arcextra    "Arcanum Bonus Maps" by Tronyn & PM
 arwop       "A Roman Wilderness of Pain" by Tronyn & PM
+backstein   "Backsteingotik" by sock
 bbelief     "Beyond Belief" by Matthias Worch
     note: expects bbelief6_fix as pak1
 cda         "Castle of the Dark Ages" by JPL
@@ -60,6 +62,7 @@ drakebeta   "Drake" mod by PM
 e1m5quotha  "Gloomier Keep" by Kell
 e2m5rmx     "The Lizard's Trance" by rj
 egypt       "Egyptian Rhapsody!" by Drew & Hrimfaxi
+fallen      "Fallen from Grace" by sock
 flesh       "Carved in Flesh" by Kona
 fmb_bdg2    "Binn, Dunne, Gorne" by Mike Woodham
 gmsp3       "Day of the Lords" by GlassMan
@@ -84,6 +87,7 @@ jam8        "Film Noir Jam"
 jam9        "Contract Revoked Jam"
 jamx        "Insomnia Jam"
 jumpmod     "Jump Boots" mod and "Triune Discovery" by JCR
+kaahoo      "Castle Kaahoo" by sock
 koohoo      "The Castle of Koohoo" by Vondur
 lunsp1      "Concentric Devastation" by Lunaran
 marcher     "The Marcher Fortress" by Kinn
@@ -91,6 +95,7 @@ marine      "Ultramarine" by Kona
 masque      "The Masque of Red Death" by Tronyn
 mfxsp17     "Mainframe Mayhem" by mfx
 movplan2    "Shifting Planes of Existence" by Spipper
+oms3        "Cataractnacon / Zeangala" by Orl
 nastrond    "Nastrond" by Vondur
 ne_lend     "The Living End / Elder World Waystation" by necros
 ne_ruins    "The Altar of Storms" by necros
@@ -106,6 +111,8 @@ oum         "Operation: Urth Majik" by Fat Controller et al.
 quoth       "Quoth" mod by Preach, necros & Kell (v2.2)
 rapture     "Rapture" by Tronyn & Kona
 red777      "Red 777" by Kell
+retrojam1   "Medieval RetroJam"
+retrojam2   "Fantasy Brick Cities in the Skies RetroJam"
 retrojam4   "Elder World Retro Jam"
 retrojam6   "Egyptian Retro Jam"
 ritualsp    "Dark Ritual" by Tyrann & negke
@@ -131,6 +138,7 @@ xmas2017    pak0:   skins for ADv1.70p1
 xmas2018    pak0:   skins for ADv1.70p1
             pak1:   "Christmas Jam 2018"
 xmas2019    "Christmas Jam 2019"
+zendar      "The Horde of Zendar" by sock
 zer         "Zerstörer" by Nihilism Unlimited
     note: expects zerend_fix as pak1
 
@@ -141,7 +149,7 @@ The patches are set up for additive luma (rather than masked). This means better
 
 The following releases have been checked and do not require a patch:
 
-5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, gmsp1, grim, honey, ikspq1-4, ivory, jam4, kellmet, mappi1, mappi2, menk, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam1,2,3,5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
+5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, gmsp1, grim, honey, ikspq1-4, ivory, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam1,2,3,5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
 
 
     == Legal ==
