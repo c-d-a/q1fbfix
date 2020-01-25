@@ -95,7 +95,6 @@ marine      "Ultramarine" by Kona
 masque      "The Masque of Red Death" by Tronyn
 mfxsp17     "Mainframe Mayhem" by mfx
 movplan2    "Shifting Planes of Existence" by Spipper
-oms3        "Cataractnacon / Zeangala" by Orl
 nastrond    "Nastrond" by Vondur
 ne_lend     "The Living End / Elder World Waystation" by necros
 ne_ruins    "The Altar of Storms" by necros
@@ -107,6 +106,7 @@ nehahra     pak5:   "Nehahra" by Mindcrime et al.
 nehmovie    "The Seal of Nehahra" by Mindcrime et al.
 nihilore    "Nihilore" by Kona
 nsoe        "Soul of Evil: Indian Summer" by Tronyn et al.
+oms3        "Cataractnacon / Zeangala" by Orl
 oum         "Operation: Urth Majik" by Fat Controller et al.
 quoth       "Quoth" mod by Preach, necros & Kell (v2.2)
 rapture     "Rapture" by Tronyn & Kona
@@ -133,6 +133,7 @@ warp        "Warp Spasm" by ijed
     pak4 contains optional darker reskins
 wicked      pak5:   "Something Wicked This Way Comes" by Tronyn
             pak6:   "Nyarlathotep" by Tronyn
+            pak7:   "Ter Shibboleth, Part 2" by Orl
 xmas2017    pak0:   skins for ADv1.70p1
             pak1:   "Christmas Jam 2017"
 xmas2018    pak0:   skins for ADv1.70p1
