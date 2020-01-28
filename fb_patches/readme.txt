@@ -86,6 +86,7 @@ jam7        "Back to Base Jam"
 jam8        "Film Noir Jam"
 jam9        "Contract Revoked Jam"
 jamx        "Insomnia Jam"
+jumpjam     "January Jump Jam"
 jumpmod     "Jump Boots" mod and "Triune Discovery" by JCR
 kaahoo      "Castle Kaahoo" by sock
 koohoo      "The Castle of Koohoo" by Vondur
@@ -150,7 +151,7 @@ The patches are set up for additive luma (rather than masked). This means better
 
 The following releases have been checked and do not require a patch:
 
-5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, gmsp1, grim, honey, ikspq1-4, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
+5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, barzai, bastion, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, ghspch01, gmsp1, grim, honey, ikspq1-4, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
 
 
     == Legal ==
