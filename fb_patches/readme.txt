@@ -49,6 +49,7 @@ coagpack2   "Coagula Contest 2"
 coagpack3   "Coagula Mappack 3"
 coagula     "Coagula 1-3" by Tim Elek
 contract    "Contract Revoked" by Kell
+copper      "Copper Quake" mod by Lunaran
 czg07       "Insomnia" by CZG
 dis_sp6     "Ruined Nation" by distrans
 dm4jam      "DM4 Jam"
@@ -123,6 +124,7 @@ rrp         "Rubicon Rumble Pack" by Hrimfaxi, ijed & mfx
 sksp2       "Conference of the Shamblers" by skacky
 slave       "Slave to a Machine" by RickyT23
 soe         "Soul of Evil" by Tronyn et al.
+smej        "Menetettyjen Valtakunta" (Realm of the Lost)
 swjam       "Sewer Jam"
 ter_shib    "Ter Shibboleth" by Orl
 thehand     "(Don't Bite) The Hand That Feeds You" by RickyT23
@@ -151,7 +153,7 @@ The patches are set up for additive luma (rather than masked). This means better
 
 The following releases have been checked and do not require a patch:
 
-5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, barzai, bastion, binding, coag3_negke, cogs, copper, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, ghspch01, gmsp1, grim, honey, ikspq1-4, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
+5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, barzai, bastion, binding, coag3_negke, cogs, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, ghspch01, gmsp1, grim, honey, ikspq1-4, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
 
 
     == Legal ==
