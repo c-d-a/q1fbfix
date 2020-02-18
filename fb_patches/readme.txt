@@ -92,6 +92,7 @@ jumpmod     "Jump Boots" mod and "Triune Discovery" by JCR
 kaahoo      "Castle Kaahoo" by sock
 koohoo      "The Castle of Koohoo" by Vondur
 lunsp1      "Concentric Devastation" by Lunaran
+loc         "Lords of Chaos" by Borax Man
 marcher     "The Marcher Fortress" by Kinn
 marine      "Ultramarine" by Kona
 masque      "The Masque of Red Death" by Tronyn
