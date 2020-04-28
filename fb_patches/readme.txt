@@ -132,6 +132,8 @@ thehand     "(Don't Bite) The Hand That Feeds You" by RickyT23
 travail     "Travail" by distrans et al.
 unf         "Unforgiven" by Tronyn & PM
 uwjam       "Underwater Jam"
+vile        "Hell" by Nephilim
+    note: limited compatibility
 warp        "Warp Spasm" by ijed
     pak3 contains all necessary skins and texture overrides (and an empty sound)
     pak4 contains optional darker reskins
@@ -143,6 +145,7 @@ xmas2017    pak0:   skins for ADv1.70p1
 xmas2018    pak0:   skins for ADv1.70p1
             pak1:   "Christmas Jam 2018"
 xmas2019    "Christmas Jam 2019"
+zanthu      "Castle Zanthu" by Greenwood
 zendar      "The Horde of Zendar" by sock
 zer         "Zerstörer" by Nihilism Unlimited
     note: expects zerend_fix as pak1
@@ -154,7 +157,7 @@ The patches are set up for additive luma (rather than masked). This means better
 
 The following releases have been checked and do not require a patch:
 
-5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, barzai, bastion, binding, coag3_negke, cogs, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, februus, ghspch01, gmsp1, grim, honey, ikspq1-4, jam4, kellmet, mappi1, mappi2, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, teacups, terra, tofaz, udob, xplore
+5rivers, actaltrz, ad_dwoffice, ad_grendel, ad_scastle, ant, apsp1, apsp2, base_debris, barzai, bastion, binding, coag3_negke, cogs, could, czg00-04, damaul3, damaul6, digs05, dm6rmx, dm7rmx, dopa, du_sm1, februus, ghspch01, gmsp1, grim, honey, ikspq1-4, jam4, keeper, kellmet, mappi1, mappi2, memgrot, menk, metmon, mexx1-10, mfxsp10, middle, mjb_horse, moonlite, mstalk, oblivion, oms2, retrojam3, retrojam5, rpgsp1, rubicon, rubicon2, rw3, scampsp1, sewage, simplex, solarfall, sp_maxx, teacups, terra, tofaz, udob, xplore
 
 
     == Legal ==
